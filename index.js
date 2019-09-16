@@ -111,4 +111,4 @@ setTimeout(function() {
 
 
 
-`client.login(TOKEN);`
+`client.login(process.env.TOKEN);`
